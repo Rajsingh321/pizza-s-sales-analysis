@@ -4,7 +4,7 @@ from PIL import Image
 import os
 
 st.title("Pizza Sales Analysis")
-data = pd.read_excel("mega 2 web/Pizza_types.csv")
+data = pd.read_csv("mega 2 web/Pizza_types.csv")
 
 st.subheader("Data preview")
 st.write(data.head(10))
