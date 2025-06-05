@@ -113,6 +113,8 @@ Veggie category and Spicy Italian Pizza need promotion or reconsideration.
 st.subheader("📜Insights")
 st.write(insights)
 
+st.subheader("📊 Power BI Dashboard")
+
 try:
     img = Image.open("mega 2 web/p1 page 1.png")
     st.image(img)
