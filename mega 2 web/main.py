@@ -115,6 +115,6 @@ st.write(insights)
 
 try:
     img = Image.open("mega 2 web/p1 page 1.png")
-    st.image(img, use_column_width=True)
+    st.image(img)
 except FileNotFoundError:
     st.warning(" ")
