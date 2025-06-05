@@ -11,7 +11,7 @@ st.write(data.head(10))
 
 insights = """
 
-📊 1. Overall Business Performance
+**📊 1. Overall Business Performance**
 Total Sales Revenue: ₹195.92K
 
 Total Number of Orders: Not shown directly, but visible through charts and bar heights.
