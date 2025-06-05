@@ -16,7 +16,7 @@ Total Sales Revenue: ₹195.92K
 
 Total Number of Orders: Not shown directly, but visible through charts and bar heights.
 
-🧭 2. Sales by Category
+**🧭 2. Sales by Category**
 Top-Selling Category (Revenue):
 
 Supreme – ₹202.2K (25.46%) (Highest)
@@ -29,7 +29,7 @@ Chicken – ₹220K
 
 Veggie – ₹19K (Lowest)
 
-🍕 3. Pizza-wise Insights
+**🍕 3. Pizza-wise Insights**
 🛒 Orders Count:
 Top Ordered Pizzas:
 
@@ -58,7 +58,7 @@ Least Grossing Pizza:
 
 The Spicy Italian Pizza – Below ₹35K
 
-🕒 4. Time of Day Analysis
+**🕒 4. Time of Day Analysis**
 Peak Sales Time:
 
 Between 1 PM and 3 PM (13:00–15:00)
@@ -71,7 +71,7 @@ Order Flow:
 
 Starts increasing around 11 AM, peaks in early afternoon, drops slightly by 5 PM.
 
-🌄 5. Orders by Day Timing
+**🌄 5. Orders by Day Timing**
 Afternoon:
 
 Most active time of day for orders (>25K orders)
@@ -84,7 +84,7 @@ Night and Morning:
 
 Very low engagement (<5K orders combined)
 
-📅 6. Day of Week Analysis
+**📅 6. Day of Week Analysis**
 Top Performing Days (Order Volume):
 
 Friday – Highest
@@ -99,7 +99,7 @@ Lowest Orders:
 
 Sunday
 
-📌 7. Behavioral Patterns
+**📌 7. Behavioral Patterns**
 Customers prefer ordering in the Afternoon on Fridays and Saturdays.
 
 Lunch hours (1–3 PM) and weekends are critical for marketing.
