@@ -1,0 +1,8 @@
+Pizza Name,Order Count,Revenue (INR),Category
+Classic Deluxe Pizza,2300.0,,Classic
+Barbecue Chicken Pizza,2250.0,40000.0,Chicken
+Hawaiian Pizza,2200.0,,Classic
+Pepperoni Pizza,2200.0,,Classic
+Thai Chicken Pizza,2150.0,42000.0,Chicken
+California Chicken Pizza,,39000.0,Chicken
+Spicy Italian Pizza,,34000.0,Veggie
